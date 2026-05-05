@@ -4,7 +4,7 @@ build gradle và chạy bằng nút run mặc định
 ### Chạy Frontend
 Đảm bảo đã cài nodejs và npm
 ```bash
-cd demo-frontend
+cd demo-react
 npm install
 npm run dev
 ```
